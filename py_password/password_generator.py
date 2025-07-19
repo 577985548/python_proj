@@ -5,7 +5,7 @@
 用户输入密码长度。
 随机组合字符生成密码。
 可选择是否包含特殊字符。
-核心知识点：字符串操作、随机选择（random.choice）。
+核心知识点：字符串操作、随机选择（random.choice）。1
 """
 import random
 import string
