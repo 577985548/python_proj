@@ -51,3 +51,4 @@ def calculate():
     print("感谢使用")
 if __name__ == '__main__':
         calculate()
+        # 运行程序
